@@ -1,5 +1,10 @@
 # MNIST с нуля на NumPy
 
+![Python](https://img.shields.io/badge/Python-3.12.3-blue)
+![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5%2B-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
+
 Проект сделан за 3 дня в учебных целях.  
 Здесь нет PyTorch, TensorFlow или других фреймворков — только **NumPy** и цепное правило.  
 Всё, от линейных слоёв до оптимизатора Adam, написано руками.
